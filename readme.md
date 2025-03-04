@@ -34,7 +34,3 @@
   <li><strong>Backend (app.js)</strong>: Receives location data, stores it, and broadcasts it to all connected clients using <code>io.emit('received-location')</code>.</li>
   <li><strong>Leaflet.js</strong>: Renders an interactive map and places markers to show the locations of connected users.</li>
 </ul>
-
-
-<h2>License</h2>
-<p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
